@@ -11,6 +11,14 @@ npm i -g gulp
 gulp
 ```
 
+### Testing the app
+
+```bash
+into the workbench white space add the webpart : "regionwp" into the page 
+then you can see the web part or preview it
+```
+
+
 This package produces the following:
 
 * lib/* - intermediate-stage commonjs build artifacts
