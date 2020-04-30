@@ -26,7 +26,7 @@
     "@types/webpack-env": "1.13.1",
     "datatables.net": "^1.10.20",
     "datatables.net-jqui": "^1.10.20",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "office-ui-fabric-react": "6.189.2",
     "react": "16.8.5",
     "react-dom": "16.8.5"
